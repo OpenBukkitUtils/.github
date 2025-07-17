@@ -5,5 +5,3 @@ OpenBukkitUtils is a young, open organization aimed at collecting and maintainin
 Check out our repositories! Pull requests, issues are very welcomed.
 
 You are also encouraged to suggest and add your own util libraries!
-
-# Repositories
